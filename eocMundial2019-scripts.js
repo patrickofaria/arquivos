@@ -78,7 +78,8 @@ $( document ).ready(function() {
 	})
 
 
-  // REGISTRO: Define qual formulÃ¯Â¿Â½rio serÃ¯Â¿Â½ aberto com base na busca de informaÃ¯Â¿Â½Ã¯Â¿Â½es 
+
+    // REGISTRO: Define qual formulÃ¯Â¿Â½rio serÃ¯Â¿Â½ aberto com base na busca de informaÃ¯Â¿Â½Ã¯Â¿Â½es 
     // --------------------------------------------------------------------------------
 
     // Caso o e-mail da busca por infos tenha sido enviado 
